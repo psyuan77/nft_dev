@@ -1,6 +1,6 @@
 # NFT Marketplace Demo
 
-[![Deploy to GitHub Pages](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/psyuan77/nft_dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
 
 A simple NFT marketplace landing page built with React and Vite.
 
@@ -64,7 +64,7 @@ This project includes a development environment with hot reload capabilities usi
 
 1. Replace the `USERNAME` in the badge URL with your GitHub username:
    ```markdown
-   [![Deploy to GitHub Pages](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
+   [![Deploy to GitHub Pages](https://github.com/psyuan77/nft_dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
    ```
 
 ## Manual Deployment
